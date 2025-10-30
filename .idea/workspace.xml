@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f1eb248-6d86-4f25-83fd-4dd301875412" name="Changes" comment="added file 1 into main2">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.css" beforeDir="false" afterPath="$PROJECT_DIR$/service.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.js" beforeDir="false" afterPath="$PROJECT_DIR$/service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <workItem from="1761293972170" duration="5425000" />
       <workItem from="1761306998600" duration="794000" />
       <workItem from="1761307809315" duration="69000" />
-      <workItem from="1761805584176" duration="2596000" />
+      <workItem from="1761805584176" duration="2860000" />
     </task>
     <task id="LOCAL-00001" summary="تجربة  ( اضافه كلمة الالكتروني الى البريد الالكتروني )">
       <created>1761294151711</created>
